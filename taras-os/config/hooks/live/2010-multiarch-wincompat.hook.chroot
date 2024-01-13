@@ -1,0 +1,4 @@
+dpkg --add-architecture i386
+apt update
+apt install -y steam-installer
+apt install -y wine winetricks exe-thumbnailer icoutils

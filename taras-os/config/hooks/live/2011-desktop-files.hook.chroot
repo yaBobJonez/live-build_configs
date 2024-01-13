@@ -1,0 +1,6 @@
+mkdir -p /etc/skel/.local/share/applications/
+for entry in debian-uxterm debian-xterm
+do
+	cp /usr/share/applications/${entry}.desktop /etc/skel/.local/share/applications/${entry}.desktop
+	echo "NoDisplay=true" >> /etc/skel/.local/share/applications/${entry}.desktop
+done

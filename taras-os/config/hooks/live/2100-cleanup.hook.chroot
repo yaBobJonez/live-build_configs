@@ -1,0 +1,3 @@
+rm -vr /var/cache/apt
+rm -vr /var/cache/man
+apt clean

@@ -1,0 +1,7 @@
+[Layout]
+DisplayNames=,,
+LayoutList=us,ua,ru
+Options=grp:ctrl_shift_toggle,compose:ralt
+ResetOldOptions=true
+Use=true
+VariantList=,,

@@ -1,0 +1,6 @@
+[Desktop Entry]
+Exec=/usr/bin/wine
+MimeType=application/vnd.microsoft.portable-executable;application/x-msdownload;
+Name=WINE
+NoDisplay=true
+Type=Application

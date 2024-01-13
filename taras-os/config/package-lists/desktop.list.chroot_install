@@ -1,0 +1,6 @@
+xinit plasma-desktop desktop-base- sddm-theme-breeze sddm-theme-debian-breeze- plasma-welcome- plasma-firewall- plasma-thunderbolt- kwalletmanager- kdeconnect- partitionmanager- kwin-wayland
+kde-config-flatpak kde-config-gtk-style-preview kde-config-plymouth plasma-discover-backend-flatpak kwin-addons plasma-runners-addons plasma-widgets-addons kio-admin kio-gdrive
+kdialog print-manager skanpage grub-customizer qt5-style-kvantum
+zutty- konsole dolphin kwrite kcalc ark okular gwenview kolourpaint apper sweeper kde-spectacle
+dolphin-plugins okular-extra-backends
+qbittorrent gamemode mangohud apt-transport-https code

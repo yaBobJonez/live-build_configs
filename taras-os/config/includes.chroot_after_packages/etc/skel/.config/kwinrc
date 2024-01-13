@@ -1,0 +1,5 @@
+[Effect-windowview]
+BorderActivateAll=9
+
+[TabBox]
+LayoutName=thumbnail_grid
